@@ -1,0 +1,26 @@
+##############################
+## Moje ignorowane pliki
+##############################
+
+
+*synchronizacja*.sh
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.pyo
+*.bak
+*.org
+*.tmp
+*.temp
+*.old
+*.ii
